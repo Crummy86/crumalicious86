@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crumalicious
+- 👋 Hi, I’m @Crummy
 - 👀 I’m interested in building in python and learning coding.
 - 🌱 I’m currently learning pytho3 and pycharm
 - 💞️ I’m looking to collaborate on Virtual Assistants
